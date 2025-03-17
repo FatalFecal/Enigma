@@ -1,2 +1,3 @@
-2025/03/16-23:39:58.756 1fc8 Creating DB C:\Users\Jacob\Documents\GitHub\Enigma\Enigma.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/03/16-23:39:58.772 1fc8 Reusing MANIFEST C:\Users\Jacob\Documents\GitHub\Enigma\Enigma.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/03/17-04:28:13.706 4918 Reusing MANIFEST C:\Users\Jacob\source\repos\Enigma\bin\x64\Debug\Enigma.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/03/17-04:28:13.713 4918 Recovering log #8
+2025/03/17-04:28:13.715 4918 Reusing old log C:\Users\Jacob\source\repos\Enigma\bin\x64\Debug\Enigma.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000008.log 
